@@ -1,13 +1,6 @@
-	# Local terraform directory (contains plugins)
 .terraform/
-
-# State files (contains plain-text secrets and infrastructure mapping)
 *.tfstate
 *.tfstate.*
-
-# Crash logs
 crash.log
-
-# Sensitive variable files (where you keep your passwords/tokens)
 *.tfvars
 *.tfvars.json
